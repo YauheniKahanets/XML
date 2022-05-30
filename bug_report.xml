@@ -1,1 +1,8 @@
-
+<report>
+  <ID> 12345 </ID>
+  <Title> Save Button </Title>
+  <Steps_to_reproduce> Add text to document, press the 'SAVE' button </Steps_to_reproduce>
+  <Actual result> Closing a file without saving changes </Actual result>
+  <Expected result> Saving a document </Expected result>
+  <Severity> Critical </Severity>
+</report>
